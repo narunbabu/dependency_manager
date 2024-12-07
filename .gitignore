@@ -1,0 +1,6 @@
+workspace/
+*__pycache__/
+.env
+*.html
+*.js
+*.json
